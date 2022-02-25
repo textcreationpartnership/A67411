@@ -1,0 +1,352 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Theological discourses, in two parts the first containing VIII letters and III sermons concerning the blessed Trinity : the second, discourses &amp; sermons on several occasions / by John Wallis ...</title>
+            <author>Wallis, John, 1616-1703.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 43 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67411</idno>
+            <idno type="STC">Wing W607A</idno>
+            <idno type="STC">ESTC R34712</idno>
+            <idno type="EEBO-CITATION">14574332</idno>
+            <idno type="OCLC">ocm 14574332</idno>
+            <idno type="VID">102627</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67411)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 102627)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1079:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Theological discourses, in two parts the first containing VIII letters and III sermons concerning the blessed Trinity : the second, discourses &amp; sermons on several occasions / by John Wallis ...</title>
+                  <author>Wallis, John, 1616-1703.</author>
+               </titleStmt>
+               <extent>[2], 8, 3-8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Parkhurst ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect copy: contains only the first two letters.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Trinity.</term>
+               <term>Theology, Doctrinal.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:102627:1"/>
+            <p>
+               <hi>THEOLOGICAL</hi> DISCOURSES; In Two Parts.</p>
+            <p>The FIRST containing, VIII LETTERS AND III SERMONS Concerning the Bleſſed Trinity.</p>
+            <p>The SECOND, <hi>DISCOURSES</hi> &amp; <hi>SERMONS</hi> on ſeveral Occaſſions.</p>
+            <p>By <hi>JOHN WALLIS</hi> D. D. Profeſſor of Geome<g ref="char:EOLhyphen"/>try in
+<hi>OXFORD.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Tho. Parkhurſt</hi> at the
+<hi>Bible</hi> and <hi>Three Crowns in Cheapſide</hi> near <hi>Mercers</hi> Chappel, 1695.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:102627:2"/>
+            <pb n="1" facs="tcp:102627:2"/>
+            <head>The Doctrine of the Bleſſed Trinity Briefly Explained.
+<hi>In a Letter to a Friend.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THE Doctrine of the <hi>Arrians, Socinians,</hi> or
+<hi>Anti-Trinitari<g ref="char:EOLhyphen"/>ans,</hi> (call them as you pleaſe, provided you call them not <hi>Orthodox Chriſtians</hi>) in oppoſition to thoſe who believe (ac<g ref="char:EOLhyphen"/>cording to the Word of God), That the Sacred <hi>Trinity,</hi> of
+<hi>Father, Son,</hi> and <hi>Holy Ghoſt,</hi> are ſo
+<hi>diſtinguiſhed</hi> each from other, as that the <hi>Father</hi> is not the <hi>Son,</hi> or <hi>Holy-Ghoſt;</hi> the <hi>Son</hi> not the
+<hi>Father,</hi> or <hi>Holy-Ghoſt;</hi> the <hi>Holy-Ghoſt</hi> not the
+<hi>Father,</hi> or <hi>Son;</hi> yet ſo <hi>
+                  <g ref="char:V">Ʋ</g>nited,</hi> as that they are all <hi>One God;</hi> (which, in the <hi>Athanaſian Creed,</hi> is called
+<hi>Trinity in <g ref="char:V">Ʋ</g>nity, and <g ref="char:V">Ʋ</g>nity in Trinity;</hi> or, in common ſpeaking,
+<hi>Three Perſons and One God;</hi>) is what you were lately diſcourſing with me, and of which I ſhall give you ſome of my preſent Thoughts.</p>
+            <p>The Scripture tells us plainly, <hi>There are three that bear record in Hea<g ref="char:EOLhyphen"/>ven; the Father, the Word, and the Holy-Ghoſt: and theſe Three are One,</hi> 1. Joh. 5.7. And the Form of <hi>Baptiſm</hi> (Mat.
+28.19.) is, <hi>In the name of the Father, and of the Son, and of the Holy-Ghoſt.</hi>
+            </p>
+            <p>And the Chriſtian Church, from the time of Chriſt and his Apoſtles downwards hitherto, as well before as ſince the Council of
+<hi>Nice,</hi> have ever held the <hi>Divinity</hi> of thoſe <hi>Three Perſons</hi> (as they are commonly cal<g ref="char:EOLhyphen"/>led;) and that theſe <hi>Three</hi> are but <hi>One God.</hi> And, that they have ſo held, hath been, by divers, ſufficiently proved from the moſt ancient Chriſtian Writers, which are now exſtant. Which, therefore, I take for granted, as ſufficiently proved by others, without ſpending time at preſent, to prove it a new.</p>
+            <p>That theſe are <hi>Three,</hi> diſtinguiſhed each from other, is manifeſt: And, that this Diſtinction amongſt themſelves, is wont to be called <hi>Perſonali<g ref="char:EOLhyphen"/>ty.</hi> By which word, we mean, that Diſtinction (what ever it be) whereby they are diſtinguiſhed each from other, and thence called <hi>Three Perſons.</hi>
+            </p>
+            <p>If the word <hi>Perſon</hi> do not pleaſe, we need not be fond of Words, ſo the Thing be agreed: Yet is it a good Word, and warranted by Scripture, <hi>Heb.</hi> 1.3. where the <hi>Son</hi> is called <hi>the expreſs image of his</hi> Fa<g ref="char:EOLhyphen"/>thers <hi>Perſon:</hi> (For ſo we render the Word <hi>Hypoſtaſis,</hi> which is there uſed; and mean by it, what I think to be there meant.) And we have no reaſon to wave the Word, ſince we know no better to put in the Place of it.</p>
+            <p>If it be asked, what theſe <hi>Perſonalities</hi> or
+<hi>Characteriſticks</hi> are, whereby each <hi>Perſon</hi> is diſtinguiſhed from other; I think we have little more <pb n="2" facs="tcp:102627:3"/>thereof in Scripture, than that the <hi>Father</hi> is ſaid to
+<hi>Beget;</hi> the <hi>Son,</hi> to be <hi>Begotten;</hi> and the
+<hi>Holy-Ghoſt,</hi> to <hi>Proceed.</hi>
+            </p>
+            <p>If it be further asked, what is the full import of theſe Words (which are but Metaphorical), and what is the adequate Meaning of them; I think we need not trouble our ſelves about it: For, ſince it is a matter purely of Revelation (not of natural Knowledge,) and we know no more of it than what is revealed in Scripture; where the Scripture is ſi<g ref="char:EOLhyphen"/>lent, we may be content to be ignorant. And we who know ſo little of the Eſſence of any thing, eſpecially of ſpiritual Beings, though finite, need not think it ſtrange that we are not able to comprehend all the Par<g ref="char:EOLhyphen"/>ticularities of what concerns that of God, and the <hi>Bleſſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d Trinity.</hi>
+            </p>
+            <p>I know that the Fathers, and School men, and ſome after them, have imployed their Wits to find out ſome faint Reſemblances, from natural things, whereby to expreſs their imperfect Conceptions of the <hi>Sacred Tri<g ref="char:EOLhyphen"/>nity:</hi> But they do not pretend to give an adequate Account of it; but on<g ref="char:EOLhyphen"/>ly ſome conjectural <hi>Hypotheſes,</hi> rather of what May be, than of what cer<g ref="char:EOLhyphen"/>tainly Is. Nor need we be concerned, to be curiouſly inquiſitive into it, beyond what God hath been pleaſed to reveal concerning it.</p>
+            <p>That the <hi>Three Perſons</hi> are diſtinguiſhed, is evident; (though we do not perfectly underſtand what thoſe Diſtinctions are) That to each of. theſe, the Scripture aſcribes Divinity, is abundantly ſhewed by thoſe who have written on this Subject: That there is but <hi>One God,</hi> is agreed on all hands: That the <hi>Father</hi> is ſaid to
+<hi>Beget;</hi> the <hi>Son,</hi> to be <hi>Begotten;</hi> and the
+<hi>Holy-Ghoſt,</hi> to <hi>Proceed;</hi> is agreed alſo; though we do not perfectly underſtand the full import of theſe Words.</p>
+            <p>And here we might quietly acquieſce (without troubling our ſelves fur<g ref="char:EOLhyphen"/>ther,) did not the clamorous <hi>Socinians</hi> importunely ſuggeſt the <hi>Impoſſi<g ref="char:EOLhyphen"/>bility</hi> and <hi>Inconſiſtence</hi> of theſe things, inſomuch as to tell us, That, how clear ſoever the Expreſſions of Scripture <hi>be,</hi> or <hi>can be,</hi> to this purpoſe, they will not believe it, as being inconſiſtent with natural Reaſon And therefore, though they do not yet think ſit to give us a bare-fac'd Re<g ref="char:EOLhyphen"/>jection of Scripture; yet they do (and muſt, they tell us,) put ſuch a forced ſence on the words of it (be they never ſo plain) as to make them ſignify ſome-what elſe.</p>
+            <p>There is, therefore, in this Doctrine of the <hi>Trinity,</hi> as in that of the <hi>Reſurrection from the Dead,</hi> a double Inquiry: Firſt, whether it be <hi>Poſ<g ref="char:EOLhyphen"/>ſible;</hi> and then, whether it be
+<hi>True.</hi> And theſe to be argued (in both Caſes) from a very different Topick: The one from Natural Reaſon; the other from Revelation. Yet ſo, that this latter doth certainly con<g ref="char:EOLhyphen"/>clude the former, if rightly underſtood. And though we ſhould not be able to ſolve all difficulties; yet muſt we believe the thing, if revealed, <pb n="3" facs="tcp:102627:3"/>unleſs we will deny the Authority of ſuch Revelation.</p>
+            <p>Thus our Saviour, againſt the <hi>Sadducees,</hi> who denied the Reſurrection, <hi>Matth.</hi> 22.29. <hi>Ye erre</hi> (ſaith he) <hi>not knowing the Scriptures, nor the Power of God.</hi> The <hi>Power of God,</hi> if rightly underſtood, was enough (from the Light of Reaſon) to prove it
+<hi>not impoſſible:</hi> But, whether or no it <hi>will be ſo</hi> (which natural Reaſon could not determine,) was to be argued from Scripture-Revelation.</p>
+            <p>In like manner, St. <hi>Paul</hi> before <hi>Agrippa, Act.</hi>
+26. firſt argues the <hi>Poſ<g ref="char:EOLhyphen"/>ſibility</hi> of it; <hi>Why ſhould it be thought a thing incredible with you, that God ſhould raiſe the Dead?</hi> ver. 8. For if <hi>Agrippa</hi> did believe the Creation of the World, (as many even of the Heathen did, from the light of Na<g ref="char:EOLhyphen"/>ture) he could not think it
+<hi>Impoſſible</hi> for that God (who had at firſt made all things of nothing) to recollect, out of its Duſt or Aſhes, a Body which once had been. But whether or no he <hi>would</hi> do ſo, depended upon another Queſtion, to be after asked, <hi>ver.</hi> 27. <hi>King Agrippa, believeſt thou the Prophets?</hi> For this was purely matter of Revelation, and could not otherwiſe be known: For, as to the <hi>Immortality of the Soul,</hi> and a future ſtate hereafter, many of the Heathens went very far, by the Light of Nature; but as to the <hi>Reſurrection of the Body,</hi> I do not find they had any Sentiments about it (or but very faint, if any:) And if they had, it may well be ſuppoſed to be the remainder of ſome ancient Tradition from the <hi>Jews,</hi> or their Predeceſſors. Nor do I ſee any foundation in Nature, which ſhould make them think of it (before it was revealed) any more, than of the Redemption of Mankind by Chriſt, (which we ſhould never have thought of, had not God himſelf contrived and declared it to us.) But, when that of the Reſurrection was once ſuggeſted, there was no pre<g ref="char:EOLhyphen"/>tence of Reaſon to think it a thing <hi>Impoſſible,</hi> and therefore no reaſon to doubt the <hi>Truth</hi> of it, when Declared, if we believe the Scriptures, wherein it is revealed; eſpecially thoſe of the New Teſtament.</p>
+            <p>It is much the ſame as to the Doctrine of the <hi>Trinity.</hi> It is a thing we ſhould not have thought of, if it had not been ſuggeſted by Divine Wri<g ref="char:EOLhyphen"/>ters; but, when ſuggeſted, there is nothing in natural Reaſon (that we know of, or can know of) why it ſhould be thought
+<hi>Impoſſible;</hi> but whe<g ref="char:EOLhyphen"/>ther or no it <hi>be ſo,</hi> depends only upon Revelation.</p>
+            <p>And in this caſe the Revelation ſeems ſo clear (to thoſe who believe the Scriptures) that we have no reaſon to doubt of it, unleſs the thing be found to be really <hi>Impoſſible,</hi> and inconſiſtent with Reaſon. Nor do the <hi>Anti-Trinitarians</hi> inſiſt on any other ground why they deny it, ſave only, That it ſeems to them abſolutely
+<hi>Impoſſible;</hi> and therefore think them<g ref="char:EOLhyphen"/>ſelves bound to put another ſence on all places of Scripture (how clear ſo<g ref="char:EOLhyphen"/>ever they be, or can be) which prove or favour it.</p>
+            <pb n="4" facs="tcp:102627:4"/>
+            <p>So that the Controverſie is now reduced to this ſingle Point, Whether it be <hi>Poſſible</hi> or <hi>not Poſſible:</hi> Whether it be conſiſtent or inconſiſtent with Natural Light or Reaſon. (And to that point therefore I ſhall confine my diſcourſe.) For it ſeems agreed on all hands (as to thoſe who believe the Scriptures) that, if it be not
+<hi>Impoſſible,</hi> it is ſufficiently revea<g ref="char:EOLhyphen"/>led.</p>
+            <p>Now for us who underſtand ſo little of God's infinite Eſſence, and which it is impoſſible for us fully to comprehend, who are our ſelves but finite, and moſtly converſant with material Objects; in ſo much that we cannot pretend to underſtand the Eſſence of our own Souls; and, when we attempt to explain it, muſt do it rather by ſaying what it is not, than what it is; (ſo hard a matter is it for us to ſix in our Mind or Fancy, a Notion, Idea, or Conception of a ſpiritual being, which falls not under our Senſes:) 'Tis hard, I ſay, for us (who underſtand ſo little of a Spirit) to determine (of what God is pleaſed to reveal) that it is <hi>Impoſſible,</hi> or inconſiſtent with his Eſſence, which Eſſence we cannot underſtand.</p>
+            <p>But what is it that is thus pretended to be
+<hi>Impoſſible?</hi> 'Tis but this, That <hi>there be Three Somewhats, which are but One God:</hi> (and theſe <hi>Some<g ref="char:EOLhyphen"/>whats</hi> we commonly call
+<hi>Perſons.</hi>) Now what Inconſiſtence is there in all this? That
+<hi>Father, Son,</hi> and <hi>Holy-Ghoſt</hi> are <hi>Three,</hi> is manifeſt; and are in Scripture-Language diſtinguiſhed. That there is but
+<hi>One God</hi> is manifeſt alſo, and all thoſe <hi>Three</hi> are this
+<hi>God:</hi> That the name <hi>Perſon</hi> is no incongruous Word, is evident from <hi>Heb.</hi> 1.3. where it is uſed. If it be ſaid, It doth not agree to them exactly in the ſame ſence in which it is commonly uſed amongſt men; we ſay ſo too, nor doth any Word, when applyed to God, ſignifie juſt the ſame as when applyed to men, but only ſome-what analogous thereunto.</p>
+            <p>What kind or degree of Diſtinction (according to our Metaphyſicks) this is, we need not be very ſollicitous to enquire; or, whether in our Metaphyſicks (accommodated to our Notions of Finite Beings) there be any Name for it: 'Tis enough for us if theſe <hi>Three</hi> may truly be ſo di<g ref="char:EOLhyphen"/>ſtinguiſhed, as that one be not the other, and yet all but
+<hi>One God.</hi>
+            </p>
+            <p>Now, that there is no <hi>Inconſiſtence</hi> or
+<hi>Impoſſibility,</hi> that, what in one regard are <hi>Three,</hi> may in another regard be <hi>One,</hi> is very manifeſt from many Inſtances that may be given even in Finite Beings, ſuch as we con<g ref="char:EOLhyphen"/>verſe with: which, though they do not adequately agree with this of the <hi>Sacred Trinity,</hi> (nor is it to be expected that they ſhould, Finite, with what is Infinite;) yet there is enough in them to ſhew, there is no ſuch
+<hi>Inconſiſtence</hi> as is pretended.</p>
+            <p>I ſhall ſpare to inſtance in many Reſemblances which have been given <pb n="5" facs="tcp:102627:4"/>long ſince by Fathers and Schoolmen, or by later Writers. Which, though they they are not pretended to be adequately the ſame with that of the <hi>Sacred Trinity,</hi> (as neither will any thing elſe be that we can take from finite Beings;) yet are they ſufficient to ſhew that there is no <hi>Inconſiſtence</hi> in it. (Which is all that is here incumbent on us to prove.) I ſhall only name a few.</p>
+            <p>I Will begin with what concerns the moſt groſs of Finite Being, that is, Material Bodies.</p>
+            <figure>
+               <figDesc>illustrative diagram of a cube</figDesc>
+            </figure>
+            <p>Suppoſe we further, Each of theſe Dimenſions infinitely continued; the Length infinitely Eaſtward and Weſtward, the Breadth infinitely Northward and Southward, the Heighth infinitely Upward and Down<g ref="char:EOLhyphen"/>ward: Here are <hi>Three</hi> infinite Dimenſions, and but <hi>One</hi> infinite Cube; and theſe <hi>Three</hi> Dimenſions (though Diſtinct) are equal each to other (elſe it were not a Cube;) &amp; tho we ſhould allow, that a Cube cannot be in<g ref="char:EOLhyphen"/>finite (becauſe a Body, and therefore a finite Creature:) Yet a Spirit may; ſuch as is the Infinite God. And therefore no Inconſiſtence; that there be <hi>Three</hi> Perſonalities (each infinite, and all equal); and yet but <hi>One</hi> In<g ref="char:EOLhyphen"/>finite God, Eſſentially the ſame with thoſe <hi>Three Perſons.</hi>
+            </p>
+            <p>I add further, That ſuch Infinite Cube; can therefore be but
+<hi>One,</hi> and thoſe <hi>Three</hi> Dimenſions can be but Three, (not more nor fewer:) For, if Infinite as to its Length (Eaſtward and Weſtward), and as to its Breadth (Northward and Southward), and as to its Heighth (Upward and Down<g ref="char:EOLhyphen"/>ward); it will take up all imaginary ſpace poſſible; end leave no room ei<g ref="char:EOLhyphen"/>ther <pb n="6" facs="tcp:102627:5"/>for more Cubes or more Dimenſions: And if this infinite Cube were (and ſhall be) Eternally ſo, its Dimenſions alſo muſt be Infinite and Co<g ref="char:EOLhyphen"/>eternal.</p>
+            <p>I ſay further, If in this (ſuppoſed) Cube, (we ſuppoſe in Order, not in Time) its firſt Dimenſion, that of Length, as <hi>A. B.,</hi> and to this Length be given an equal Breadth (which is the true generation of a Square) as <hi>C. D.,</hi> which compleats the ſquare Baſis of this Cube; and to this Baſis (of Length and Breadth) be given (as by a further Proceſſion from Both) an equal Heighth <hi>E. F.,</hi> which compleats the Cube; and all this eternally, (for ſuch is the Cube ſuppoſed to be,) here is a fair Re<g ref="char:EOLhyphen"/>ſemblance (if we may <hi>parvis componere magna</hi>) of the <hi>Father,</hi> (as the Fountain or Original;) of the <hi>Son,</hi> (as generated of him from all Eter<g ref="char:EOLhyphen"/>nity;) and of the
+<hi>Holy-Ghoſt,</hi> (as eternally Proceeding from Both:) And all this without any Inconſiſtence. This <hi>longum, latum, proſundum,</hi> (Long, Broad, and Tall) is but <hi>One</hi> Cube; of <hi>Three Dimenſions,</hi> and yet but <hi>One Body:</hi> And this <hi>Father, Son,</hi> and <hi>Holy-Ghoſt; Three Perſons,</hi> and yet but <hi>One God.</hi> And as, there, the Dimenſions are not (in the Abſtract) predicated or affirmed each of other, or the Cube of either, (the Length is not the Breadth or Heighth, nor either of theſe a Cube;) but (in the Concrete) Cube is affirmed of all; this
+<hi>longum, latum, profun<g ref="char:EOLhyphen"/>dum,</hi> is a <hi>Cube,</hi> and the <hi>ſame Cube:</hi> So here, (in the Abſtract) the Per<g ref="char:EOLhyphen"/>ſonality of the
+<hi>Father</hi> is not that of the <hi>Son,</hi> nor either of theſe that of the <hi>Holy-Ghoſt,</hi> nor the <hi>Deity</hi> or <hi>Godhead</hi> any of theſe; but (in the Con<g ref="char:EOLhyphen"/>crete) though the Perſonalities are not, yet the Perſons are, each of them <hi>God</hi> and the <hi>ſame God.</hi>
+            </p>
+            <p>If it be objected, that thoſe Concretes are Affirmed or Predicated each of other; (that <hi>longum</hi> is alſo <hi>latum</hi> and
+<hi>profundum,</hi> (this <hi>Long</hi> is <hi>Broad</hi> and <hi>Tall;</hi>) but not ſo here, the <hi>Father</hi> is not the <hi>Son</hi> or
+<hi>Holy-Ghoſt:</hi> I an<g ref="char:EOLhyphen"/>ſwer, That, if the words be rightly conſidered, the Analogy holds here alſo: For when we ſay, this <hi>Long</hi> is
+<hi>Broad</hi> and <hi>Tall</hi> (where <hi>Cube</hi> or <hi>Body</hi> is underſtood) the full meaning is plainly thus: This Body, which, as to one Dimenſion (that of <hi>Length</hi>), is ſaid to be a <hi>long</hi> Body, is the ſame Body, which, as to another Dimenſion (that of breadth,) is ſaid to be a <hi>broad</hi> body, and which, as to a third Dimenſion (that of Heighth), is ſaid to be a <hi>tall</hi> body. So here, That God, which (as to one Perſonali<g ref="char:EOLhyphen"/>ty) is <hi>God the Father,</hi> is the ſame God, which (as to another Perſona<g ref="char:EOLhyphen"/>lity) is <hi>God the Son,</hi> and which (as to a third Perſonality) is <hi>God the Ho<g ref="char:EOLhyphen"/>ly Ghoſt.</hi> So the Analogy holds every way, nor is there any Inconſiſtence in either Caſe.</p>
+            <p>I proceed to the Conſideration of ſomewhat more Spiritual, and leſs Material than that of a body locally extended.</p>
+            <pb n="7" facs="tcp:102627:5"/>
+            <p>Suppoſe we then a Created Angel, or Humane Soul: At leaſt if thoſe who deny the <hi>Bleſſed Trinity</hi> will allow that there are ſuch beings; but if they be <hi>Sadducees,</hi> who do not acknowlege either Angel or Spirit, or that the Holy Scriptures are the word of God, which teſtifie both, (which I doubt is the caſe of ſome of them) let them ſpeak out, that ſo we may know whom we have to deal with, and not pretend to nibble only at the <hi>Athanaſian Creed,</hi> or ſome Expreſſions therein, while the quarrel is in<g ref="char:EOLhyphen"/>deed at ſomewhat higher, (though, <hi>ad amoliendam invidiam,</hi> they think fit to diſſemble it,) and that they do but faintly believe (if at all) that the Holy Scriptures are the Word of God, or the Doctrines therein con<g ref="char:EOLhyphen"/>tained to be ſuch. And we have reaſon to ſuſpect it, when they ſpare not to let us know, that, were this Doctrine of the <hi>Trinity</hi> therein de<g ref="char:EOLhyphen"/>livered in Words as expreſs as could be, they would not believe it.</p>
+            <p>But ſuppoſe we, (what they would ſeem to grant, and what I am ſo charitable as to think divers of them do believe) That there are ſpiritu<g ref="char:EOLhyphen"/>al <hi>beings,</hi> ſuch as Angels and the Souls of Men: and that theſe Spiritual <hi>Beings</hi> are endued with <hi>Knowledge</hi> (or
+<hi>Wiſdom</hi>) and <hi>force</hi> (or an executive Power) to act according to that <hi>Knowledge.</hi> That there is ſome ſuch thing, at leaſt in Man, (whether Body or Soul) they cannot but acknow<g ref="char:EOLhyphen"/>ledge; for themſelves
+<hi>be,</hi> and <hi>know,</hi> and <hi>do.</hi> And though we cannot fully comprehend, much leſs expreſs in Words, how all this is ſo; (for we are here at a loſs, as well as in higher things:) Yet, <hi>that it is,</hi> they cannot deny, though they do not know <hi>How.</hi>
+            </p>
+            <p>Now, to <hi>Be,</hi> and to <hi>Know,</hi> and to <hi>Do,</hi> are certainly diſtinct each from other, (though perhaps we are not all agreed, of what kind, or in what degree this Diſtinction is:) <hi>To be</hi> is not the ſame as <hi>to know,</hi> for that may be where this is not; and <hi>to do</hi> is (for the ſame reaſon) ſomewhat diffe<g ref="char:EOLhyphen"/>rent from both thoſe, for a Man may <hi>Be</hi> and may <hi>Know</hi> what he doth not <hi>Do;</hi> yet 'tis one and the ſame Soul (at leaſt one and the ſame Man) which
+<hi>Is,</hi> and <hi>Knows,</hi> and <hi>Does.</hi> There is therefore no Impoſſibility or Inconſiſtence in it, That what in one regard are
+<hi>Three,</hi> may in another regard be <hi>One.</hi> Thus in the <hi>Sacred Trinity,</hi> if we conceive of the <hi>Fa<g ref="char:EOLhyphen"/>ther</hi> as the Original or Firſt: <hi>Perſon,</hi> who <hi>begets</hi> the <hi>Son;</hi> the
+<hi>Son</hi> as the Wiſdom of the <hi>Father, begotten</hi> of Him; and the
+<hi>Holy-Ghost</hi> as the Spi<g ref="char:EOLhyphen"/>rit of the <hi>Father</hi> and the <hi>Son,</hi> as <hi>proceeding</hi> from both, and yet the ſame God with both; (or what other Diſtinction there may be of theſe <hi>Three Perſons,</hi> who are but <hi>One God,</hi> that we do not know;) there is no Incon<g ref="char:EOLhyphen"/>ſiſtence in it, that theſe <hi>Three</hi> may be <hi>One; Three</hi> in one regard, and
+<hi>One</hi> in another.</p>
+            <p>I might ſhew the ſame as to the <hi>
+                  <g ref="char:V">Ʋ</g>nderſtanding, Will,</hi> and <hi>Meaning,</hi> 
+               <pb n="8" facs="tcp:102627:6"/>which are all the ſame
+<hi>Soul:</hi> And the known Metaphyſical Terms of <hi>
+                  <g ref="char:V">Ʋ</g>
+                  <g ref="char:EOLhyphen"/>num, Verum, Bonum,</hi> which are all but the ſame <hi>Ens.</hi> And many other Inſtances of like Nature.</p>
+            <p>But we hold (it will he ſaid) a greater Diſtinction (than that of <hi>
+                  <g ref="char:V">Ʋ</g>num, Verum, Bonum</hi>) between the <hi>Three Perſons</hi> in the
+<hi>Sacred Trinity.</hi> Be it ſo. (But what that greater Diſtinction is, we do not pretend to compre<g ref="char:EOLhyphen"/>hend.) However, it is from all theſe Inſtances evident, that there is no Impoſſibility, or Inconſiſtence with Reaſon, that what in one regard are <hi>Three,</hi> may in another Regard be
+<hi>One.</hi> Which is what we undertook to ſhew.</p>
+            <p>'Tis true, that not any, nor all of theſe Inſtances, nor any of thoſe given by other Learned Men do adequately expreſs the Diſtinction and Unity of the <hi>Perſons</hi> in the <hi>Sacred Trinity,</hi> (for neither hath God di<g ref="char:EOLhyphen"/>ſtinctly declared it to us, nor are we able fully to comprehend it, nor is it neceſſary for us to know.) But becauſe we do not know<note n="a" place="margin">Eccleſ. 11.5.</note> 
+               <hi>How the bones grow in the womb of her that is with Child,</hi> ſhall we therefore ſay they do not grow there ? Or, becauſe<note n="b" place="margin">Job 11.7.</note> 
+               <hi>We cannot by ſearching find out God,</hi> becauſe <hi>we can<g ref="char:EOLhyphen"/>not find out the Almighty to perfection,</hi> ſhall we therefore ſay, things <hi>cannot be,</hi> when God ſayes they <hi>are,</hi> only becauſe we know not
+<hi>How?</hi> If God ſay,<note n="c" place="margin">1 Joh. 5.7.</note>
+               <hi>Theſe Three are One?</hi> ſhall we ſay, they are not? If God ſay,<note n="d" place="margin">Joh. 1.1, 14.</note> 
+               <hi>The word was God,</hi> and, <hi>The word waes made Fleſh,</hi> ſhall we ſay, Not ſo, only becauſe we cannot tell, <hi>How?</hi> It is ſafer to ſay It is, when God ſays It is, though we know not (in particular) How it is. Eſpecially when there be ſo many In<g ref="char:EOLhyphen"/>ſtances in Nature, to ſhew it not to be Impoſſible or Inconſiſtent with Reaſon. The thing is ſufficiently revealed to thoſe who are willing to be taught, and<note n="e" place="margin">2 Theſ. 2.10</note> 
+               <hi>receive the truth in the love of it.</hi> (Nor is it denyed, by thoſe who gainſay it, but that, if the thing be poſſible, it is ſufficiently revealed; there being no other Exception made, as to the Revelation, but the Impoſſibility of the thing.)<note n="f" place="margin">1 Cor. 11.16. Rom. 2.8.</note> 
+               <hi>But if any man liſt to be contentious,</hi> and to<note n="g" place="margin">2 Tim. 6.4. Tit. 3.9.</note> 
+               <hi>quarrel about words,</hi> it is no wonder if<note n="h" place="margin">Act. 28.28. Matt.
+13.13.</note> 
+               <hi>hearing they do hear and not un<g ref="char:EOLhyphen"/>derſtand;</hi> and that God<note n="i" place="margin">2 Theſſ. 2.10, 11. Rom. 1.21.18.</note>
+               <hi>give them over to believe a lye,</hi> who do not <hi>love the truth.</hi> But<note n="k" place="margin">Pſal. 25.9.</note> 
+               <hi>the humble he will teach his way.</hi> And, while we be ſo, we be ſafe.</p>
+            <closer>
+               <date>Auguſt 11. 1690.</date>
+               <signed>Yours, <hi>John Wallis.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="cover_letter">
+            <pb n="3" facs="tcp:102627:6"/>
+            <head>The Second <hi>Letter</hi> Concerning the Sacred
+<hi>TRINITY.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I <g ref="char:V">Ʋ</g>nderſtand by your Letter (of <hi>Sep. 20.</hi>) that you have printed a Let<g ref="char:EOLhyphen"/>ter of mine concerning the Trinity; and have ſent me ſome Copies of it to <hi>Oxford.</hi> But I am not there to receive them; and ſo have yet ſeen none of them: (But your Letter thither was ſent me thence by the Poſt.) I have, ſince yours, received (by the ſame way) a Letter directed to me, ſubſcribed <hi>W. J.</hi> But I know not from whom. I ſuppoſe it is ſome body in <hi>London,</hi> to whom you have preſented a Book, for which he returns me thanks.</p>
+            <p>That Letter to me was thus, (with the Poſt-mark at <hi>London, SE. 23.</hi> from whence I ſupply the Date, which in the Letter was wanting)
+<hi>For the Reve<g ref="char:EOLhyphen"/>rend Dr.</hi> Wallis, <hi>Profeſſor of Geometry, at</hi> Oxford.</p>
+            <floatingText type="letter">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>I Received the Honour of your Letter; and return you humble and hearty thanks for it. 'Tis writ in my Opinion, in a Modeſt, Peaceable, and Chriſtian Stile: And I wiſh it may pleaſe others as well as it doth me. I am afraid however, that it will not give ſa<g ref="char:EOLhyphen"/>tisfaction to the Scholaſtick Athanaſian Trinitarian. For they are ſo particular, and withal ſo poſitive, in the explication of the greateſt of Myſteries, as if they underſtood it as well as any Article of their Chriſtian Faith.</p>
+                  <p>Your Explication of Perſonality, gives no diſtaſt to me, when you ſay (<hi>page</hi> 3.) <hi>They are diſtinguiſhed by Perſonality:</hi> And, <hi>by Perſonality I mean, that diſtinction whereby they are diſtinguiſhed.</hi> Yet I'm afraid the High-flown School-Trinitarians will ſay, This is Trifling, and <hi>idem per idem.</hi> Though to me it hath this good Senſe, That we know there is a Diſtin<g ref="char:EOLhyphen"/>ction betwixt them, which we call Perſonality; but we can affix no No<g ref="char:EOLhyphen"/>tion to this Perſonality, which is common to it with other Perſonalities, either Humane or Angelical; and therefore we can only ſay, It is that diſtinction whereby the three Hypoſtaſes are diſtinguiſhed.</p>
+                  <p>But you ſtill uſe a greater Latitude, as to the Notion of theſe Perſons, or Perſonalities, when you call them <hi>ſomewhats</hi> (<hi>page</hi> 9) That, you ſay, which is pretended to be impoſſible by the Anti-Trinitarians, is only this, <hi>That there be three ſomewhats, which are but one God; and theſe ſomewhats we commonly call Perſons.</hi> This I take only to ſignifie, that the <pb n="4" facs="tcp:102627:7"/>true Notion, and the true Name of that diſtinction is unknown to us, yet the diſtinction is certain.</p>
+                  <p>But the Deep-learned School-Trinitarians, who decide all things to an Hairs breadth, will, I imagine, ridicule this Expreſſion.</p>
+                  <p>A late Learned and Ingenious Author, you know, hath gone much fur<g ref="char:EOLhyphen"/>ther in his determinations about this point. He makes your <hi>three ſomewhats,</hi>
+                     <note place="margin">Dr. <hi>Sherlock.</hi>
+                     </note> not only
+<hi>three Perſons,</hi> but <hi>three Subſtantial Beings,</hi> (<hi>page</hi> 47.) and <hi>three Infinite Minds,</hi> (<hi>page</hi> 66.) And the contrary, he ſays, is both <hi>Hereſie and Non-ſenſe.</hi>
+                  </p>
+                  <p>Three Infinite <hi>Minds,</hi> is the ſame as <hi>three Infinite Spirits.</hi> And, by <hi>Infinite,</hi> the Author underſtands here, not Infinite in Extenſion, but in Perfection. So that the three Hypoſtaſes are <hi>three Spirits,</hi> whereof each is <hi>Infinite in Perfection.</hi>
+                  </p>
+                  <p>Then, ſaith the Anti-Trinitarian, they are <hi>three Gods.</hi> For what bet<g ref="char:EOLhyphen"/>ter Notion, or what better Definition, have we of GOD, than that he is <hi>A Spirit Infinitely Perfect.</hi> And, if there be three ſuch, there are three Gods. In like manner, <hi>three ſubſtantial beings really diſtinct,</hi> are three <hi>Subſtances</hi> really diſtinct. And if each of theſe Sub<g ref="char:EOLhyphen"/>ſtances be endued with Infinite Perfection, it will be hard to keep them from being three Gods.</p>
+                  <p>We do not well know what particular Explication of the Trinity thoſe Perſons gave, whom the Ancients call <hi>Tritheites.</hi> But this we know, that the great offence which is taken at the Chriſtian Doctrine of the Trinity, by the <hi>Jews</hi> and <hi>Mahometans,</hi> is, from the appearance of <hi>Polytheiſm</hi> in that Doctrine. Which appearance, methinks, is rather in<g ref="char:EOLhyphen"/>creaſed than leſſened by this Explication: And, conſequently, the ſcan<g ref="char:EOLhyphen"/>dal which (to them) follows upon it.</p>
+                  <p>But the Learned Author hath an expedient to prevent Polytheiſm, notwithſtanding the real diſtinction of his three Infinite Spirits. Which is, by making them <hi>mutually conſcious</hi> of one anothers Thoughts and Actions: whereby, he ſays, they would be ſo united, as to make but one God. That, methinks, doth not follow, That upon this mutual conſci<g ref="char:EOLhyphen"/>ouſneſs they would be but One God. That which follows is this, That they would be three Gods mutually conſcious. For there is no rea<g ref="char:EOLhyphen"/>ſon why this mutual conſciouſneſs ſhould make their God-head ceaſe, if without this they would be three diſtinct Gods. No Union amounts to Identity.</p>
+                  <p>It came in my way to mind you of this more punctual and demonſtra<g ref="char:EOLhyphen"/>tive Explication of the Trinity, as it is ſaid to be, that you might not expect that every one ſhould be of your Mind, nor approve of your Mo<g ref="char:EOLhyphen"/>deſty as I do.</p>
+                  <pb n="5" facs="tcp:102627:7"/>
+                  <p>Your Similitude and Compariſons, are as juſt as the Nature of the Sub<g ref="char:EOLhyphen"/>ject will admit. The great defect of the Firſt, ſeems to be this; that it can<g ref="char:EOLhyphen"/>not be ſaid of any One Dimenſion, that it is a Cube, or a Body: Where<g ref="char:EOLhyphen"/>as it is ſaid of every Perſon, that he is God.</p>
+                  <p>Your Second Compariſon interferes again with the Learned Author a<g ref="char:EOLhyphen"/>bove-mentioned. For he ſays, (<hi>page</hi> 72.) 'Tis a miſtake to think that Knowledge and Power, even in Men, <hi>is not the ſame thing;</hi> where<g ref="char:EOLhyphen"/>as you ſuppoſe them diſtinct, and, upon that, ground your Simili<g ref="char:EOLhyphen"/>tude.</p>
+                  <p>I cannot but be of your Mind in this particular alſo. For Power be<g ref="char:EOLhyphen"/>longs to the<note n="†" place="margin">I <hi>ſhould rather ſay,</hi> To the Exe<g ref="char:EOLhyphen"/>cutive Faculty <hi>or,</hi> Power of Doing.</note>
+                     <hi>Will,</hi> and Knowledge to the Under<g ref="char:EOLhyphen"/>ſtanding. And 'tis plain, that we know many things that we cannot do: And, on the contrary, we can do many things, and know not how they are done. It may be the Ingenious Author would be hard put to it to tell us how he pronounces his own Name; that is, what Organs of Speech are moved, and how; by what Muſcles and Nerves; and what the whole Action is that intervenes betwixt the inward Thought and the outward Sound; or betwixt the firſt Cauſe and the laſt Effect. Or, if he be ſo good an Anatomiſt and Philoſopher as to underſtand all this, at leaſt his little Son, or little Daughter, who can pronounce the ſame as well as himſelf, know not in what manner, or by what means they do it. So, Fools and Children can move their Hands, Fingers, and all the Members of the Body, as well as Philoſophers: Though they do not know, in what Method, or by what Mechaniſm, they are mo<g ref="char:EOLhyphen"/>ved. Theſe things are the Effects of Will, independently on Know<g ref="char:EOLhyphen"/>ledge. And 'tis as plain, on the other hand, that we know how ma<g ref="char:EOLhyphen"/>ny things are to be done, which yet we cannot do, for want of Strength or Force. I can lift a Weight of two or three hundred Pounds, but I cannot lift one of five or ſix hundred; though I underſtand as well how the one is moved as the other. And a brawny Porter ſhall raiſe that of five or ſix hundred, though he underſtands Staticks leſs than I do. I can bend a Stick, but cannot bend a Bar of Iron: Though I uſe juſt the ſame Method, and underſtand as much how the one is done as the other. And innumerable inſtances of like nature ſhew, Know<g ref="char:EOLhyphen"/>ledge and Force to be different things. But this, Sir, I ſay only in your defence.</p>
+                  <p>Your Concluſion alſo agrees very well to my Senſe. And I think them exceedingly to blame, that preſume to meaſure theſe Infinite Na<g ref="char:EOLhyphen"/>tures, and all their Properties, by our narrow Underſtandings. The Anti-Trinitarians generally are no great Philoſophers, yet they take up<g ref="char:EOLhyphen"/>on
+<pb n="6" facs="tcp:102627:8"/>them as if they were the only Maſters of Reaſon: And in the moſt Sublime and Myſterious Points, will ſcarce allow Revelation to be of greater Authority than their Judgment.</p>
+                  <p>But however, on the other hand, (though I never felt any Inclina<g ref="char:EOLhyphen"/>tion or Temptation to Socinian Doctrines, yet) I cannot heartily joyn with you in the damnatory Sentences; neither would I have us Spin Creeds, like Cobwebs, out of our own Bowels. In the Name of God, let us be content with what is revealed to us in Scripture concerning theſe Myſteries; and leave the reſt to make part of our Heaven, and fu<g ref="char:EOLhyphen"/>ture Happineſs. To ſtrain things to theſe heights, makes ſtill more Divi<g ref="char:EOLhyphen"/>ſions in the Church. We that now have School-Trinitarians, and Scrip<g ref="char:EOLhyphen"/>ture-Trinitarians; and either of them will have their Plea, and Purſue their Intereſt; till, by Zeal for Opinions which are diſputable, we have deſtroyed Chriſtian Charity and Unity, which are indiſpenſable Vertues and Duties. I am, Sir, with Sincerity and Reſpect,</p>
+                  <closer>
+                     <signed>Your obliged humble Servant, W. J.</signed> 
+                     <dateline>
+                        <hi>London,</hi>
+                        <date>
+                           <hi>Sept.</hi> 23. 1690.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>If you know from whom it is, pray thank him from me for his Civili<g ref="char:EOLhyphen"/>ties therein. And you may pleaſe to tell him, that he doth understand me aright, and puts a true ſenſe upon my words: By Perſonallity, I mean that diſtinction (whatever it be) whereby the Three are diſtinguiſhed; but, what that is, I do not pretend to determine. And if I ſhould gueſs (for it will be but <hi>Gueſſing</hi>) how it <hi>may be;</hi> I ſhould not be poſitive, that juſt ſo <hi>it is.</hi> (<g ref="char:V">Ʋ</g>pon the ſame account, that it is not thought prudent in a Siege, to enlarge the Line of Defence too far.) There is a Diſtinction (this we are ſure of) between the Three: This Diſtinction I call Perſonality: And by this word I mean that Diſtinction, whatever it be: But, what this Di<g ref="char:EOLhyphen"/>ſtinction is (or what degree of Diſtinction) I cannot well tell. If this be <hi>Trifling,</hi> I cannot help it, (nor, if they pleaſe to <hi>ridicule it:</hi>) But, to me, it ſeems to be <hi>good ſenſe.</hi>
+            </p>
+            <p>If others will venture to determine it more nicely than <hi>I</hi> have done; they perhaps may underſtand it more distinctly than <hi>I</hi> pretend to do; but will give me leave to be ignorant (therein) of what the Scripture doth not tell me.</p>
+            <p>Of the <hi>Damnatory Sentences</hi> (as he calls them) <hi>I</hi> had ſaid nothing. Nor do <hi>I</hi> think, that the Author of the
+<hi>Athanaſian</hi> Creed did intend them <pb n="7" facs="tcp:102627:8"/>in that Rigour that ſome would put upon them. And, if it be well con<g ref="char:EOLhyphen"/>ſidered how there they ſtand, he will find them annexed (at least ſo they ſeem to me) only to ſome <hi>Generals</hi> which he thought neceſſary, (as, That we ought to hold the Catholick Faith; That the Trinity in <g ref="char:V">Ʋ</g>nity is to be Worſhipped; That the Son of God was Incarnate;) not to every Punctilio in his Explications. Which are but as a Comment on theſe Generals, how he thought they were to be underſtood, or might be explained. Which Explica<g ref="char:EOLhyphen"/>tions I take to be True, and Good; but not within the purview of thoſe Clau<g ref="char:EOLhyphen"/>ſes: And that a man may be ſaved (even in the judgment of that Au<g ref="char:EOLhyphen"/>thor) who doth Hot know, or doth not fully understand, ſome of them. His true meaning therein, ſeems to me to be but this; That the Doctrine there<g ref="char:EOLhyphen"/>in delivered (concerning the Trinity, and the Incarnation of Chriſt,) is the ſound Orthodox Doctrine; and ſuch as (for the <hi>ſubſtance</hi> of it) ought to be believed by thoſe who expect Salvation by Chriſt. Certainly his mean<g ref="char:EOLhyphen"/>ing never was, that Children, and Idiots, and all who do not underſtand the School-terms, or perhaps have never heard them, ſhould be therefore de<g ref="char:EOLhyphen"/>nyed Salvation.</p>
+            <p>As to what he objects to me, That <hi>it cannot be ſaid of any one Di<g ref="char:EOLhyphen"/>menſion, that it is a Cube, or a Body; whereas it is ſaid of every Perſon, that he is God:</hi> He might obſerve, that I had already obvia<g ref="char:EOLhyphen"/>ted this Objection. For though we cannot ſay (in the Abſtract) that
+<hi>length</hi> is a Cube, (and ſo of the reſt;) yet (in the Concrete) this
+<hi>Long</hi> thing (or this which is Long) is a Cube; and ſo, this which is
+<hi>Broad,</hi> or this which is <hi>High,</hi> is a Cube: Juſt ſo; we do not ſay (in the Abſtract) that <hi>Pater<g ref="char:EOLhyphen"/>nity</hi> is God; but (in the Concrete) the <hi>Father</hi> is God; (and ſo of the other Perſons.) The
+<hi>Perſonality</hi> is not ſaid to be God, but the <hi>Perſon</hi> is. Which fully anſwers that exception.</p>
+            <p>What he cites of a Learned Author falls not within the compaſs of what I undertook to defend; (and that learned Perſon will excuſe me, if I do not pretend to underſtand all his Notions; and leave it to him to explain himſelf.) But what I have endeavoured to defend, is as much (<hi>I</hi> think) as we need to maintain in this point.</p>
+            <p>Where that Author calls it a <hi>Miſtake</hi> to think that
+<hi>Knowledge and Power</hi> (in the ſame Man) <hi>are not the ſame thing: I</hi> ſuppoſe (not ha<g ref="char:EOLhyphen"/>ving the Book at hand) he means no more but this; That though they dif<g ref="char:EOLhyphen"/>fer indeed (to uſe the School-language) <hi>ex parte rei,</hi> yet not <hi>ut res &amp; res,</hi> but rather <hi>ut modus &amp; modus;</hi> that is, not as two <hi>Things,</hi> but as two <hi>Modes</hi> of the ſame thing. And if he ſhould ſay the like of <hi>Length, Breadth</hi> and <hi>Thickneſs; I</hi> would not contend about it: For, even ſo, it will ſerve my Similitude well enough, If that of the three Perſons be more than ſo: It is then (I think) ſuch a Diſtinction as to which (in our Metaphyſicks) <pb n="8" facs="tcp:102627:9" rendition="simple:additions"/>we have not yet given a Name. But of this, I determine nothing (be<g ref="char:EOLhyphen"/>cauſe I would not ſpin the Thread too fine: And content my ſelf to ſay, It is that, of the three Perſonalities in one Deity; without determining, How great that is. And I may the rather be allowed thus to forbear; Becauſe I find, even in matters of ordinary Converſation (ſuch as thoſe but now mentioned) the School-men are not well agreed, what things ſhall be ſaid to differ <hi>ut res &amp; res,</hi> and what only
+<hi>ex parte rei.</hi> Much more, therefore may I be allowed a like latitude of thought in the preſent caſe.</p>
+            <p>I add no more but that I am</p>
+            <closer>
+               <signed>Yours, <hi>John Wallis.</hi>
+               </signed>
+               <dateline>
+                  <hi>Soundeſs,</hi>
+                  <date>
+                     <hi>Sept. 27. 1690.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="publishers_advertisement">
+            <head>Books Printed <hi>for,</hi> and Sold <hi>by</hi> Tho. Parkhurſt, <hi>&amp;c.</hi>
+            </head>
+            <p n="1">1. A Body of Practical Divinity, conſiſting of above 176 Sermons on the leſſer Ca<g ref="char:EOLhyphen"/>techiſm; Compoſed by the Reverend Aſſembly of Divines at <hi>Weſtminſter,</hi> &amp;c. By <hi>Thomas Watſon,</hi> formerly Miniſter of St <hi>Stephens Walbrook</hi> London.</p>
+            <p n="2">2. A Paraphraſe on the New Teſtament, with Notes Doctrinal and Practical by plain<g ref="char:EOLhyphen"/>neſs and bervity; fitted to the uſe of Religious Families in their daily reading of the Scriptures; and of the Younger and Poorer ſort of Schollars and Miniſters who want fuller helps: By the late Reverend Mr. <hi>Richard Baxter.</hi>
+            </p>
+            <p n="3">3. Of free Juſtification by Chriſt, written firſt in
+<hi>Latin</hi> by <hi>John Fox,</hi> Author of the Book of Martyrs, againſt
+<hi>Oſorius,</hi> and now Tranſlated into <hi>Engliſh,</hi> &amp;c.</p>
+            <p n="4">4. A Calm and ſober enquiry concerning the poſſibility of a Trinity in the God<g ref="char:EOLhyphen"/>head; in a Letter to a Perſon of VVorth, occaſioned by the lately publiſhed conſi<g ref="char:EOLhyphen"/>derations on the Explications of the Doctrine of the Trinity; by Dr. <hi>Wallis,</hi> Dr. <hi>Sher<g ref="char:EOLhyphen"/>lock,</hi> Dr.
+<hi>S</hi>—<hi>th,</hi> Dr. <hi>Cudworth,</hi> &amp;c. Together with certain Letters (hitherto un<g ref="char:EOLhyphen"/>publiſhed) formerly written to the Reverend Dr.
+<hi>Wallis</hi> on the ſame Subject.</p>
+            <p n="5">5. A Letter to a Friend, concerning a Poſtſcript to the Defence of Dr. <hi>Sherlocks</hi> No<g ref="char:EOLhyphen"/>tion of the Trinity in Unity; relating to the calm and ſober Enquiry upon the ſame Subject.</p>
+            <p n="6">6. A View of that part of the late conſiderations addreſt to <hi>H. H.</hi> about the Trinity, which concerns the ſober Enquiry on that ſubject; in a Letter to the former Friend: Theſe Three laſt by <hi>John Howe</hi> M. A.</p>
+            <p n="7">7. The Confirming work of Religion, or its great things made plain by their prima<g ref="char:EOLhyphen"/>ry evidences and demonſtrations, whereby the meaneſt in the Church may ſoon be made able to render a ſolid and rational account of their Faith; by <hi>R. Fleming</hi> Author of the <hi>Fulfilling of the Scripture.</hi>
+            </p>
+            <p n="8">8. An Earneſt call to Family Religion, or a diſcourſe concerning Family VVorſhip; being the ſubſtance of 18 Sermons, by
+<hi>Sam. Slater</hi> A. M.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
